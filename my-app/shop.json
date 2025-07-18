@@ -1,0 +1,510 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "name": "Bldc motor",
+      "description": "Take your drone flying experience to the next level with our premium selection of brushless drone motors. We offer a wide range of drone motors, including UAV motors, mini drone motors, and brushless motors for drones, catering to various thrust capabilities, voltage ratings, and sizes.",
+      "price": "$49.99",
+      "img": "Product/bldc-moter.webp",
+      "type": "Motor"
+    },
+    {
+      "id": "2",
+      "name": "24GHz mmWave",
+      "description": "The 24GHz mmWave Sensor for XIAO - Human Static Presence is an extension board designed for the XIAO development platform. It serves as a highly advanced human body sensing module that utilizes FMCW",
+      "price": "$13.99",
+      "img": "Product/24GHz-mmWave.jpg",
+      "type": "Sensor"
+    },
+    {
+      "id": "3",
+      "name": "Soldering Iron",
+      "description": "A high-quality soldering iron for precision electronics work and soldering tasks.",
+      "price": "$89.99",
+      "img": "Product/soldering-iron.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "4",
+      "name": "Raspberry PI RP2040-Zero",
+      "description": "The Raspberry Pi RP2040-Zero is a super-compact microCtrl board designed for developers and hobbyists seeking powerful performance in a miniature form. Powered by the RP2040 dual-core ARM Cortex-M0+ processor, this board is Arduino-compatible and features a Type-C connector for easy programming and power. Its tiny footprint and robust capabilities make it ideal for a wide range of projects.",
+      "price": "$29.99",
+      "img": "Product/Raspberry PI .avif",
+      "type": "MicroCtrl"
+    },
+    {
+      "id": "5",
+      "name": "Precision Screwdriver",
+      "description": "Included are 60 long-shank bits specifically designed for accessing harder-to-reach screws.",
+      "price": "$29.99",
+      "img": "/Product/Precision Screwdriver.jpeg",
+      "type": "Tools"
+    },
+    {
+      "id": "6",
+      "name": "Multimeter UNI-T",
+      "description": "UT33D+ Palm Size Multimeter is a handheld device for measuring electrical properties. They are widely used in Widely used in engineering and many other applications.",
+      "price": "$279.99",
+      "img": "/Product/Multimeter UNI-T.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "7",
+      "name": "Microscope RF4 RF6565 Pro",
+      "description": "Original Microscope RF4 RF6565 Pro en Metal Aluminium RF-D2.",
+      "price": "$549.99",
+      "img": "/Product/Microscope RF4 RF6565 Pro.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "8",
+      "name": "Digital Laser Level",
+      "description": "A digital laser level for accurate alignment and leveling in construction projects.",
+      "price": "$89.99",
+      "img": "/Product/Digital Laser Level.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "9",
+      "name": "Digital Camera",
+      "description": "A high-quality digital camera for taking professional photos and videos.",
+      "price": "$599.99",
+      "img": "product/Digital Camera.webp",
+      "type": "Electronics"
+    },
+    {
+      "id": "10",
+      "name": "Cordless Drill",
+      "description": "A powerful cordless drill for drilling holes and driving screws. Ideal for home and professional use.",
+      "price": "$159.99",
+      "img": "Product/Cordless Drill.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "11",
+      "name": "Impact Wrench",
+      "description": "A powerful impact wrench for high-torque applications.",
+      "price": "$149.99",
+      "img": "Product/Impact Wrench.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "12",
+      "name": "Variable DC Power Supply 0-120V & 0-03A (360W) ",
+      "description": "Program-Controlled encoder adjusts voltage and current with high precision & stability.3 groups of 4 digit digital display, respectively displays Voltage, Current, Power.",
+      "price": "$119.99",
+      "img": "Product/Variable DC Power Supply.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "13",
+      "name": "Cordless Screwdriver",
+      "description": "A compact cordless screwdriver for small DIY tasks.",
+      "price": "$39.99",
+      "img": "Product/Cordless Screwdriver.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "14",
+      "name": "Heat Gun",
+      "description": "A professional heat gun for stripping paint, drying and shaping plastic.",
+      "price": "$59.99",
+      "img": "Product/Heat Gun.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "15",
+      "name": "IRF540 MOSFET FET",
+      "description": "power MOSFETs from Vishay provide thedesigner with the best combination of fast switching ",
+      "price": "$19.99",
+      "img": "Product/IRF540 MOSFET FET.webp",
+      "type": "Transistor"
+    },
+    {
+      "id": "16",
+      "name": "ESP8266 NodeMCU",
+      "description": "NodeMCU is an development board specially targeted for IoT",
+      "price": "$59.99",
+      "img": "Product/ESP8266 NodeMCU.jpg",
+      "type": "MicroCtrl"
+    },
+    {
+      "id": "17",
+      "name": "Techlife Robot Vacuum Cleaner",
+      "description": "equipped with a powerful 5200 mAh battery for extended cleaning sessions without interruption",
+      "price": "$529.99",
+      "img": "Product/Techlife Robot Vacuum Cleaner.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "18",
+      "name": "HC-SR04 Ultrasonic Sensor",
+      "description": "This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a ranging accuracy that can reach up to 3mm",
+      "price": "29.99",
+      "img": "Product/HC-SR04 Ultrasonic Sensor.webp",
+      "type": "Sensor"
+    },
+    {
+      "id": "19",
+      "name": "Battery Charger",
+      "description": "A high-efficiency battery charger for quick and safe charging.",
+      "price": "$29.99",
+      "img": "Product/Battery Charger.webp",
+      "type": "Battery"
+    },
+    {
+      "id": "20",
+      "name": "Temp & Humidity Sensor",
+      "description": "This is an GY-SHT30-D Digital Temperature and Humidity Sensor. GY-SHT30-D module for the digital measurement of temperature and relative humidity that equips the known sensor SHT30. It also offers new features, such as improved signal processing and two distinct user-selectable I2C addresses.",
+      "price": "$29.99",
+      "img": "Product/Temp & Humidity Sensor.webp",
+      "type": "Sensor"
+    },
+    {
+      "id": "21",
+      "name": "Oscillating Multi-Tool",
+      "description": "A versatile oscillating multi-tool for sanding, cutting, scraping, and grinding.",
+      "price": "$89.99",
+      "img": "Product/Oscillating Multi-Tool.webp",
+      "type": "Tools"
+    },
+    {
+      "id": "22",
+      "name": "Power Bank 18650 Charging",
+      "description": "Dual USB 5V 2.4A Micro Type-C LED USB Mobile Power Bank 18650 Charging Module Lithium Battery Charger Board Circuit Protection",
+      "price": "$69.99",
+      "img": "Product/Power Bank 18650 Charging.webp",
+      "type": "Module"
+    },
+    {
+      "id": "23",
+      "name": "Li-Po Battery ",
+      "description": "Flipo 2200mhttpsAh 3S 30C/60C (11.1V) Lithium Polymer Battery Pack LIPO",
+      "price": "$110.00",
+      "img": "Product/Li-Po Battery.webp",
+      "type": "Battery"
+    },
+    {
+      "id": "24",
+      "name": "LiPo Battery 3.7V 500mAh",
+      "description": "Drones is an excellent choice for drone enthusiasts seeking a reliable andefficient power source. Its combination of lightweight design, high energy density, and stable performance makes it an essentialcomponent for any aerial adventure.",
+      "price": "$29.99",
+      "img": "Product/LiPo Battery 3.7V 500mAh.webp",
+      "type": "Battery"
+    },
+    {
+      "id": "25",
+      "name": "3s-20A 18650 Li-po",
+      "description": "The Roboway 3s 20A 18650 Lithium Battery Protection Board is a top-tier solution for battery management. This board is designed to handle high currents up to 20A, ensuring efficient operation. It supports 11.1V, 12V, and 12.6V configurations, making it versatile for various applications. The robust design provides excellent protection for your lithium-ion batteries.",
+      "price": "$35.99",
+      "img": "Product/3s-20A 18650 Li-po.webp",
+      "type": "Module"
+    },
+    {
+      "id": "26",
+      "name": "Battery Charger Board",
+      "description": "The 3S Charging Module Battery Charging Board is a compact and versatile solution for efficiently charging 18650 lithium-ion batteries. Designed with a USB Type-C input for convenient power connection, this module supports 3S configurations, making it suitable for a range of applications.",
+      "price": "$79.99",
+      "img": "Product/Battery Charger Board.jpg",
+      "type": "Module"
+    },
+    {
+      "id": "27",
+      "name": "Steel Tweezer Set",
+      "description": "THEMISTO - built with passion 5 in 1 Satinless Steel Tweezer Set (Stainless Steel)",
+      "price": "$99.99",
+      "img": "Product/Steel Tweezer Set.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "28",
+      "name": "Smart Thermostat",
+      "description": "A smart thermostat to control your home's temperature from anywhere.",
+      "price": "$129.99",
+      "img": "Product/Smart Thermostat.webp",
+      "type": "Electronics"
+    },
+    {
+      "id": "29",
+      "name": "Electric Drill",
+      "description": "An electric drill for home improvement and construction tasks.",
+      "price": "$89.99",
+      "img": "Product/Electric Drill.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "30",
+      "name": "Arduino zero ",
+      "description": "The Arduino zero micro-controller boards is a simple and powerful 32-bit extension of the platform established by the UNO. The Zero board expands the family by providing increased performance, enabling a variety of project opportunities for devices, and acts as a great educational tool for learning about 32-bit application development.",
+      "price": "$119.99",
+      "img": "Product/Arduino zero.webp",
+      "type": "MicroCtrl"
+    },
+    {
+      "id": "31",
+      "name": "Laser Distance Measurer",
+      "description": "A digital laser distance measurer for accurate measurements, ideal for construction and renovation.",
+      "price": "$49.99",
+      "img": "Product/Laser Distance Measurer.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "32",
+      "name": "IGBT - IKW75N60T ",
+      "description": "IKW75N60T – High Speed Switching IGBT High-speed 5 IGBT in TRENCHSTOP TM 5Technology copacked with RAPID 1fast and soft anti-parallel diode.",
+      "price": "$50.99",
+      "img": "Product/IGBT - IKW75N60T.webp",
+      "type": "Transistor"
+    },
+    {
+      "id": "33",
+      "name": "BD139 NPN",
+      "description": "BD139 is a three-layer NPN or PNP device within the working range, the collector current IC is a function of the base current IB, a change in the base current giving a corresponding amplified change in the collector current for a given collector-emitter voltage VCE.",
+      "price": "$2.99",
+      "img": "Product/BD139 NPN.webp",
+      "type": "Transistor"
+    },
+    {
+      "id": "34",
+      "name": "Stepper Motor",
+      "description": "The 17HS4401S Stepper Motor is a Black Hybrid Stepper Motor with 4.2KGCM Torque and a Current of 1.5A with 1M Long Cable. This is best suited for 3D Printer ,Laser Engraver and other Projects",
+      "price": "$169.99",
+      "img": "Product/Stepper Motor.webp",
+      "type": "Motor"
+    },
+    {
+      "id": "35",
+      "name": "Angle Screwdriver",
+      "description": "INGCO 13 IN 1 Ratchet Screwdriver Set, INGCO Style Ratchet Handle Folding Handle, High Auality Ratchet 12 Pcs 6.35 * 25 mm Screwdriver Bits",
+      "price": "$89.99",
+      "img": "Product/Angle Screwdriver.jpg",
+      "type": "Tools"
+    },
+    {
+      "id": "36",
+      "name": "Battery-Powered Light",
+      "description": "A portable battery-powered light for outdoor activities.",
+      "price": "$39.99",
+      "img": "Product/Battery-Powered Light.webp",
+      "type": "Electronics"
+    },
+    {
+      "id": "39",
+      "name": "Portable Fan",
+      "description": "A venty portable fan to keep you cool on hot days.",
+      "price": "$49.99",
+      "img": "Product/Portable Fan.jpg",
+      "type": "Electronics"
+    },
+    {
+      "id": "40",
+      "name": "Stepper Motor 28BYJ-48",
+      "description": "Stepper Motor 28BYJ-48 is a uni-polar 5V stepper motor that takes electrical signals as input and rotates by converting these input signals into the mechanical rotation. It has 4 stationary coils rated at +5V. These coils are known as a stator and make a ring around the rotor. It has a 1/64 reduction gear set and therefore moves in precise 512 steps per revolution.",
+      "price": "48.99 ",
+      "img": "Product/Stepper Motor 28BYJ-48webp.webp",
+      "type": "Motor"
+    },
+    {
+      "id": "41",
+      "name": "Brushless Motor small",
+      "description": "A high-efficiency brushless motor for various applications.",
+      "price": "$99.99",
+      "img": "Product/Brushless Motor small.jpg",
+      "type": "Motor"
+    },
+    {
+      "id": "42",
+      "name": "Lithium-Ion Battery",
+      "description": "A rechargeable lithium-ion battery for use in various devices.",
+      "price": "$49.99",
+      "img": "Product/Lithium-Ion Battery.webp",
+      "type": "Battery"
+    },
+    {
+      "id": "43",
+      "name": "Arduino UNO Board",
+      "description": "An open-source microCtrl platform for building electronics projects.",
+      "price": "$22.99",
+      "img": "Product/Arduino UNO Board.webp",
+      "type": "MicroCtrl"
+    },
+    {
+      "id": "44",
+      "name": "IR Sensor",
+      "description": "An infrared sensor for detecting motion or objects.",
+      "price": "$12.99",
+      "img": "Product/IR Sensor.webp",
+      "type": "Sensor"
+    },
+    {
+      "id": "45",
+      "name": "Bluetooth Module",
+      "description": "A Bluetooth module for wireless communication between devices.",
+      "price": "$8.99",
+      "img": "Product/Bluetooth Module.webp",
+      "type": "Module"
+    },
+    {
+      "id": "46",
+      "name": "Micro USB Cable",
+      "description": "A micro USB cable for charging and data transfer.",
+      "price": "$4.99",
+      "img": "Product/Micro USB Cable.webp",
+      "type": "Electronics"
+    },
+    {
+      "id": "47",
+      "name": "Relay Module",
+      "description": "A relay module for controlling high-voltage devices with a low-voltage microCtrl.",
+      "price": "$9.99",
+      "img": "Product/Relay Module.webp",
+      "type": "Module"
+    },
+    {
+      "id": "48",
+      "name": "LED Display",
+      "description": "A seven-segment LED display for showing numbers or characters.",
+      "price": "$7.99",
+      "img": "Product/LED Display.webp",
+      "type": "Module"
+    },
+    {
+      "id": "49",
+      "name": "Motor Driver IC",
+      "description": "A motor driver IC for controlling motors in robotics projects.",
+      "price": "$6.99",
+      "img": "Product/Motor Driver IC.webp",
+      "type": "Module"
+    },
+    {
+      "id": "50",
+      "name": "NPN Transistor",
+      "description": "An NPN transistor for switching or amplifying electrical signals.",
+      "price": "$0.99",
+      "img": "Product/NPN Transistor.webp",
+      "type": "Transistor"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "Bldc motor",
+      "description": "Take your drone flying experience to the next level with our premium selection of brushless drone motors. We offer a wide range of drone motors, including UAV motors, mini drone motors, and brushless motors for drones, catering to various thrust capabilities, voltage ratings, and sizes.",
+      "price": "$49.99",
+      "img": "Product/bldc-moter.webp",
+      "type": "Motor",
+      "quantity": 2
+    },
+    {
+      "id": "3",
+      "name": "Soldering Iron",
+      "description": "A high-quality soldering iron for precision electronics work and soldering tasks.",
+      "price": "$89.99",
+      "img": "Product/soldering-iron.jpg",
+      "type": "Tools",
+      "quantity": 1
+    },
+    {
+      "id": "7",
+      "name": "Microscope RF4 RF6565 Pro",
+      "description": "Original Microscope RF4 RF6565 Pro en Metal Aluminium RF-D2.",
+      "price": "$549.99",
+      "img": "/Product/Microscope RF4 RF6565 Pro.webp",
+      "type": "Tools",
+      "quantity": 1
+    },
+    {
+      "id": "13",
+      "name": "Cordless Screwdriver",
+      "description": "A compact cordless screwdriver for small DIY tasks.",
+      "price": "$39.99",
+      "img": "Product/Cordless Screwdriver.webp",
+      "type": "Tools",
+      "quantity": 1
+    },
+    {
+      "id": "41",
+      "name": "Brushless Motor small",
+      "description": "A high-efficiency brushless motor for various applications.",
+      "price": "$99.99",
+      "img": "Product/Brushless Motor small.jpg",
+      "type": "Motor",
+      "quantity": 2
+    },
+    {
+      "id": "48",
+      "name": "LED Display",
+      "description": "A seven-segment LED display for showing numbers or characters.",
+      "price": "$7.99",
+      "img": "Product/LED Display.webp",
+      "type": "Module",
+      "quantity": 3
+    }
+  ],
+  "delever": [
+    {
+      "id": "1dd7",
+      "items": [
+        {
+          "id": "1",
+          "name": "Bldc motor",
+          "description": "Take your drone flying experience to the next level with our premium selection of brushless drone motors. We offer a wide range of drone motors, including UAV motors, mini drone motors, and brushless motors for drones, catering to various thrust capabilities, voltage ratings, and sizes.",
+          "price": "$49.99",
+          "img": "Product/bldc-moter.webp",
+          "type": "Motor",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Soldering Iron",
+          "description": "A high-quality soldering iron for precision electronics work and soldering tasks.",
+          "price": "$89.99",
+          "img": "Product/soldering-iron.jpg",
+          "type": "Tools",
+          "quantity": 1
+        },
+        {
+          "id": "7",
+          "name": "Microscope RF4 RF6565 Pro",
+          "description": "Original Microscope RF4 RF6565 Pro en Metal Aluminium RF-D2.",
+          "price": "$549.99",
+          "img": "/Product/Microscope RF4 RF6565 Pro.webp",
+          "type": "Tools",
+          "quantity": 1
+        },
+        {
+          "id": "13",
+          "name": "Cordless Screwdriver",
+          "description": "A compact cordless screwdriver for small DIY tasks.",
+          "price": "$39.99",
+          "img": "Product/Cordless Screwdriver.webp",
+          "type": "Tools",
+          "quantity": 1
+        },
+        {
+          "id": "41",
+          "name": "Brushless Motor small",
+          "description": "A high-efficiency brushless motor for various applications.",
+          "price": "$99.99",
+          "img": "Product/Brushless Motor small.jpg",
+          "type": "Motor",
+          "quantity": 2
+        },
+        {
+          "id": "48",
+          "name": "LED Display",
+          "description": "A seven-segment LED display for showing numbers or characters.",
+          "price": "$7.99",
+          "img": "Product/LED Display.webp",
+          "type": "Module",
+          "quantity": 3
+        }
+      ],
+      "address": "Nagercoil",
+      "paymentMethod": "COD",
+      "upiId": null,
+      "total": "1003.90",
+      "date": "2025-06-12T10:52:55.160Z"
+    }
+  ]
+}
